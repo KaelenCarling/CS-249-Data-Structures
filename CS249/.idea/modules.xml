@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BattleShip/BattleShip.iml" filepath="$PROJECT_DIR$/BattleShip/BattleShip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" filepath="$PROJECT_DIR$/BinarySearchTree/BinarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS249.iml" filepath="$PROJECT_DIR$/CS249.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListIteratorQueue/ListIteratorQueue.iml" filepath="$PROJECT_DIR$/ListIteratorQueue/ListIteratorQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RB_tree/RB_tree.iml" filepath="$PROJECT_DIR$/RB_tree/RB_tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveMazSolver/RecursiveMazSolver.iml" filepath="$PROJECT_DIR$/RecursiveMazSolver/RecursiveMazSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorts/Sorts.iml" filepath="$PROJECT_DIR$/Sorts/Sorts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorts2/Sorts2.iml" filepath="$PROJECT_DIR$/Sorts2/Sorts2.iml" />
+    </modules>
+  </component>
+</project>
